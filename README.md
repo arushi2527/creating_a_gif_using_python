@@ -12,10 +12,13 @@ I used the **imageio** library to stitch multiple images together into a smooth 
 
 ---
 
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install imageio
+## How It Works
+
+1. Import the imageio library.
+
+2. Read the input images (kuromi1.png, kuromi2.png).
+
+3. Combine them into a GIF with custom duration and looping.
 
 ## Preview
 
